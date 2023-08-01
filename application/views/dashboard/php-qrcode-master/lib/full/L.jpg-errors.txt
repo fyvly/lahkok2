@@ -1,0 +1,48 @@
+2020-10-27 14:17:22: <br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrspec.php</b> on line <b>627</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+2020-11-03 09:59:41: <br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrspec.php</b> on line <b>627</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+2020-11-05 15:50:19: <br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrspec.php</b> on line <b>627</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
+<br />
+<b>Warning</b>:  gzuncompress() [<a href='function.gzuncompress'>function.gzuncompress</a>]: data error in <b>C:\XAMPP\htdocs\SIRANI\php-qrcode-master\lib\full\qrmask.php</b> on line <b>138</b><br />
